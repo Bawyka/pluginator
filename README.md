@@ -1,4 +1,0 @@
-pluginator
-==========
-
-Plugins constellation
