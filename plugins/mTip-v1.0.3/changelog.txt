@@ -1,0 +1,24 @@
+
+  mTip
+  http://dev.mauvm.nl/mTip
+
+v1.0.3 - 21/12/2011
+  Added beforeShow, beforeHide, and beforeUpdate callback options (cancel showing, hiding, or updating by returning false)
+  Added support for passing jQuery object to alignTo option
+  Removed 4th param to callback (initial element, $this) (the function is in scope of $this)
+  Removed adding Array.prototype.indexOf (not used)
+  Minor (performance) improvements
+
+v1.0.2 - 17/12/2011
+  Fixed keepOnHover for IE9 (and lower)
+  Added 4th param to callback (initial element, $this)
+  Removed content method, now use mTip( 'update', 'newContent' ); instead
+
+v1.0.1
+  Added update, content, and get methods
+  Fixed showing/hiding multiple tips at once (with show/hide methods)
+  Moved update cancelling before update callback
+
+v1.0
+  Initial release.
+  Please report bugs and post suggestions!
