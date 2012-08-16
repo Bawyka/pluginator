@@ -37,7 +37,7 @@ class Plugins {
 <!-- // END cusel -->";
 
 	/* Sticky scroll menu */
-	public $stickyscrollmenu = "<!-- slidemenu Freebie: Contained Sticky Scroll jQuery Plugin -->
+	public $stickyscrollmenu = "<!-- slidemenu http://blog.echoenduring.com/2010/11/15/freebie-contained-sticky-scroll-jquery-plugin/ -->
 <script type='text/javascript' src='plugins/stickyscrollmenu/stickyscrollmenu.js'></script>
 <!-- // END slidemenu -->";
 

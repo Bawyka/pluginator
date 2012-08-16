@@ -76,22 +76,22 @@ $(function(){
 				<tr><td><div class="h"><a href="https://github.com/carhartl/jquery-cookie/" class="l" target="_blank">jQuery cookie</a><input type="checkbox" class="l" <?php echo (in_array("jqcookie",$plugin)) ? "checked='checked'" : ""; ?> name="jqcookie" /></div></td></tr>
 				
 				<!-- jQuery ScrollPane & Mouswheel -->
-				<tr><td><div class="h"><a href="#" class="l">jScrollPane & Mousewheel</a><input type="checkbox" class="l" <?php echo (in_array("jscrollpane",$plugin)) ? "checked='checked'" : ""; ?> name="jscrollpane" /></div></td></tr>
+				<tr><td><div class="h"><a href="http://jscrollpane.kelvinluck.com" class="l" target="_blank">jScrollPane & Mousewheel</a><input type="checkbox" class="l" <?php echo (in_array("jscrollpane",$plugin)) ? "checked='checked'" : ""; ?> name="jscrollpane" /></div></td></tr>
 				
 				<!-- jQuery scrollTo -->
-				<tr><td><div class="h"><a href="#" class="l">scrollTo</a><input type="checkbox" class="l" <?php echo (in_array("scrollto",$plugin)) ? "checked='checked'" : ""; ?> name="scrollto" /></div></td></tr>
+				<tr><td><div class="h"><a href="http://flesler.blogspot.com/2007/10/jqueryscrollto.html" class="l" target="_blank">scrollTo</a><input type="checkbox" class="l" <?php echo (in_array("scrollto",$plugin)) ? "checked='checked'" : ""; ?> name="scrollto" /></div></td></tr>
 				
 				<!-- jQuery mTip -->
-				<tr><td><div class="h"><a href="#" class="l">mTip</a><input type="checkbox" class="l" <?php echo (in_array("mtip",$plugin)) ? "checked='checked'" : ""; ?> name="mtip" /></div></td></tr>
+				<tr><td><div class="h"><a href="http://dev.mauvm.nl/mTip/#manual" class="l" target="_blank">mTip</a><input type="checkbox" class="l" <?php echo (in_array("mtip",$plugin)) ? "checked='checked'" : ""; ?> name="mtip" /></div></td></tr>
 				
 				<!-- jQuery cusel -->
-				<tr><td><div class="h"><a href="#" class="l">cuSel</a><input type="checkbox" class="l" <?php echo (in_array("cusel",$plugin)) ? "checked='checked'" : ""; ?> name="cusel" /></div></td></tr>
+				<tr><td><div class="h"><a href="http://www.xiper.net/collect/html-and-css-tricks/verstka-form/nice-select-jquery.html" class="l" target="_blank">cuSel</a><input type="checkbox" class="l" <?php echo (in_array("cusel",$plugin)) ? "checked='checked'" : ""; ?> name="cusel" /></div></td></tr>
 				
 				<!-- StickyScrollMenu -->
-				<tr><td><div class="h"><a href="#" class="l">StickyScroll Menu</a><input type="checkbox" class="l" <?php echo (in_array("stickyscrollmenu",$plugin)) ? "checked='checked'" : ""; ?> name="stickyscrollmenu" /></div></td></tr>
+				<tr><td><div class="h"><a href="http://blog.echoenduring.com/2010/11/15/freebie-contained-sticky-scroll-jquery-plugin/" class="l" target="_blank">StickyScroll Menu</a><input type="checkbox" class="l" <?php echo (in_array("stickyscrollmenu",$plugin)) ? "checked='checked'" : ""; ?> name="stickyscrollmenu" /></div></td></tr>
 				
 				<!-- CheckBox -->
-				<tr><td><div class="h"><a href="#" class="l">CheckBox</a><input type="checkbox" class="l" <?php echo (in_array("chkbox",$plugin)) ? "checked='checked'" : ""; ?> name="chkbox" /></div></td></tr>
+				<tr><td><div class="h"><a href="http://widowmaker.kiev.ua/checkbox/" class="l" target="_blank">CheckBox</a><input type="checkbox" class="l" <?php echo (in_array("chkbox",$plugin)) ? "checked='checked'" : ""; ?> name="chkbox" /></div></td></tr>
 				
 				<tr><td><div class="h"><input align="left" type="submit" value="Применить плагины" class="sub" name="submit"/> </span></td><td><span>&nbsp;</div></td>
 				
