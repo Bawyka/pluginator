@@ -1,8 +1,20 @@
 ﻿Плагинатор 1.0
 
-На данный момент подключены такие плагины:
+На данный момент в сборке такие плагины:
 
 jQuery 1.8.0
 jQuery UI
+jQuery Cookie
+jQuery ScrollPane & Mouswheel
 jQuery ScrollTo
+jQuery mTip
+jQuery cusel
+jQuery StickyScrollMenu
 jQuery CheckBox
+
+
+Включение плагинов осуществляется в админке site/admin
+
+В файле workout.js можете иницииализировать любой плагин
+
+В файле content.php создавайте DOM-объекты.
