@@ -66,10 +66,10 @@ $(function(){
 			
 			<form action="/admin/" method="post" />
 			
-				<!-- jQuery versions plugin -->
+				<!-- jQuery -->
                 <tr><td><div class="h"><a href="http://jquery.com" class="l" target="_blank">jQuery</a><input type="checkbox" class="l" <?php echo (in_array("jquery",$plugin)) ? "checked='checked'" : ""; ?> name="jquery" /></div></div></td></tr>
 								
-				<!-- jQuery-UI versions plugin -->
+				<!-- jQuery-UI -->
                 <tr><td><div class="h"><a href="http://jqueryui.com" class="l" target="_blank">jQuery UI</a><input type="checkbox" class="l" <?php echo (in_array("jqueryui",$plugin)) ? "checked='checked'" : ""; ?> name="jqueryui" /></div></td></tr>
 				
 				<!-- jQuery Cookie -->
@@ -92,6 +92,9 @@ $(function(){
 				
 				<!-- CheckBox -->
 				<tr><td><div class="h"><a href="http://widowmaker.kiev.ua/checkbox/" class="l" target="_blank">CheckBox</a><input type="checkbox" class="l" <?php echo (in_array("chkbox",$plugin)) ? "checked='checked'" : ""; ?> name="chkbox" /></div></td></tr>
+
+				<!-- Kwicks -->
+				<tr><td><div class="h"><a href="http://ruseller.com/adds/adds2276/example/" class="l" target="_blank">Kwicks</a><input type="checkbox" class="l" <?php echo (in_array("kwicks",$plugin)) ? "checked='checked'" : ""; ?> name="kwicks" /></div></td></tr>
 				
 				<tr><td><div class="h"><input align="left" type="submit" value="Применить плагины" class="sub" name="submit"/> </span></td><td><span>&nbsp;</div></td>
 				

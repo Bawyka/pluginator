@@ -58,6 +58,12 @@ class Plugins {
 <script type='text/javascript' src='plugins/checkbox/jquery.checkbox.min.js'></script>
 <!-- // End. jQuery CheckBox -->";
 
+	public $kwicks = "<!-- jQuery Kwicks: http://ruseller.com/adds/adds2276/example/ -->
+<link type='text/css' rel='stylesheet' href='plugins/kwicks/css/main.css' />
+<script type='text/javascript' src='plugins/kwicks/js/jquery.easing.1.3.js'></script>
+<script type='text/javascript' src='plugins/kwicks/js/jquery.kwicks.js'></script>
+<!-- // End. jQuery Kwicks -->";
+
 
 
 	
