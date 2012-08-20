@@ -64,6 +64,10 @@ class Plugins {
 <script type='text/javascript' src='plugins/kwicks/js/jquery.kwicks.js'></script>
 <!-- // End. jQuery Kwicks -->";
 
+	public $jform = "<!-- jQuery.Form.js: https://github.com/malsup/form/ -->
+<script type='text/javascript' src='plugins/jform/jquery.form.js'></script>
+<!-- // End. jQuery.Form.js -->";
+
 
 
 	

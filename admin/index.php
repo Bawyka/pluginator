@@ -96,6 +96,9 @@ $(function(){
 				<!-- Kwicks -->
 				<tr><td><div class="h"><a href="http://ruseller.com/adds/adds2276/example/" class="l" target="_blank">Kwicks</a><input type="checkbox" class="l" <?php echo (in_array("kwicks",$plugin)) ? "checked='checked'" : ""; ?> name="kwicks" /></div></td></tr>
 				
+				<!-- jQuery Form -->
+				<tr><td><div class="h"><a href="https://github.com/malsup/form/" class="l" target="_blank">jQuery.Form.js</a><input type="checkbox" class="l" <?php echo (in_array("jform",$plugin)) ? "checked='checked'": ""; ?> name="jform" /></div></td></tr>
+				
 				<tr><td><div class="h"><input align="left" type="submit" value="Применить плагины" class="sub" name="submit"/> </span></td><td><span>&nbsp;</div></td>
 				
 			</form>
