@@ -102,6 +102,9 @@ $(function(){
 				<!-- jQuery tables -->
 				<tr><td><div class="h"><a href="http://datatables.net/" class="l" target="_blank">jQuery tables </a><input type="checkbox" class="l" <?php echo (in_array("jtables",$plugin)) ? "checked='checked'":""; ?> name="jtables" /></div></td></tr>
 				
+				<!-- jQuery tools -->
+				<tr><td><div class="h"><a href="http://jquerytools.org" class="l" target="_blank">jQuery tools</a><input type="checkbox" class="l" <?php echo (in_array("jtools",$plugin)) ? "checked='checked'" :""; ?> name="jtools" /></div></td></tr>
+				
 				<tr><td><div class="h"><input align="left" type="submit" value="Применить плагины" class="sub" name="submit"/> </span></td><td><span>&nbsp;</div></td>
 				
 			</form>

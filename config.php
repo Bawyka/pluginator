@@ -51,6 +51,7 @@ class Plugins {
 <script type='text/javascript' src='plugins/scrollTo/jquery.scrollTo.js'></script>
 <!-- // End. jQuery scrollTo -->";
 
+	/* jQuery checkBox (off/on) */
 	public $chkbox = "<!-- jQuery CheckBox: http://widowmaker.kiev.ua/checkbox/ -->
 <link type='text/css' rel='stylesheet' href='plugins/checkbox/jquery.checkbox.css'/>
 <link type='text/css' rel='stylesheet' href='plugins/checkbox/jquery.safari-checkbox.css'/>
@@ -58,20 +59,28 @@ class Plugins {
 <script type='text/javascript' src='plugins/checkbox/jquery.checkbox.min.js'></script>
 <!-- // End. jQuery CheckBox -->";
 
+	/* jQuery Kwicks */
 	public $kwicks = "<!-- jQuery Kwicks: http://ruseller.com/adds/adds2276/example/ -->
 <link type='text/css' rel='stylesheet' href='plugins/kwicks/css/main.css' />
 <script type='text/javascript' src='plugins/kwicks/js/jquery.easing.1.3.js'></script>
 <script type='text/javascript' src='plugins/kwicks/js/jquery.kwicks.js'></script>
 <!-- // End. jQuery Kwicks -->";
 
+	/* jForm (ajaxSubmit) */
 	public $jform = "<!-- jQuery.Form.js: https://github.com/malsup/form/ -->
 <script type='text/javascript' src='plugins/jform/jquery.form.js'></script>
 <!-- // End. jQuery.Form.js -->";
 
+	/* jQuery Tables */
 	public $jtables = "<!-- jQuery Tables: http://datatables.net/ -->
 <link type='text/css' rel='stylesheet' href='plugins/DataTables-1.9.3/media/css/jquery.dataTables.css' />
 <script type='text/javascript' src='plugins/DataTables-1.9.3/media/js/jquery.dataTables.js'></script>
 <!-- // End. jQuery Tables -->";
+
+
+	public $jtools = "<!-- jQuery Tools: http://jquerytools.org -->
+<script type='text/javascript' src='plugins/tools/jquery.tools.min.js'></script>
+<!-- // End. jQuery Tools -->";
 
 	
 
