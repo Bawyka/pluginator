@@ -68,7 +68,10 @@ class Plugins {
 <script type='text/javascript' src='plugins/jform/jquery.form.js'></script>
 <!-- // End. jQuery.Form.js -->";
 
-
+	public $jtables = "<!-- jQuery Tables: http://datatables.net/ -->
+<link type='text/css' rel='stylesheet' href='plugins/DataTables-1.9.3/media/css/jquery.dataTables.css' />
+<script type='text/javascript' src='plugins/DataTables-1.9.3/media/js/jquery.dataTables.js'></script>
+<!-- // End. jQuery Tables -->";
 
 	
 

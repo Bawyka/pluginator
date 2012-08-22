@@ -99,6 +99,9 @@ $(function(){
 				<!-- jQuery Form -->
 				<tr><td><div class="h"><a href="https://github.com/malsup/form/" class="l" target="_blank">jQuery.Form.js</a><input type="checkbox" class="l" <?php echo (in_array("jform",$plugin)) ? "checked='checked'": ""; ?> name="jform" /></div></td></tr>
 				
+				<!-- jQuery tables -->
+				<tr><td><div class="h"><a href="http://datatables.net/" class="l" target="_blank">jQuery tables </a><input type="checkbox" class="l" <?php echo (in_array("jtables",$plugin)) ? "checked='checked'":""; ?> name="jtables" /></div></td></tr>
+				
 				<tr><td><div class="h"><input align="left" type="submit" value="Применить плагины" class="sub" name="submit"/> </span></td><td><span>&nbsp;</div></td>
 				
 			</form>
